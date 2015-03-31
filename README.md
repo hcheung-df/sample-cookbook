@@ -1,9 +1,9 @@
 # sample-cookbook
 
 Re-creation of clowns/bears from Chef Fundamentals
-
-Test...
-
-Test 1 2 3...
-Test 2 3 4...
-More features!
+- Moar features!
+- Testing syntax using knife!
+- One more test
+- Another more test
+- Hack tasks
+- Accept test
