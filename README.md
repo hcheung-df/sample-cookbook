@@ -5,3 +5,4 @@ Re-creation of clowns/bears from Chef Fundamentals
 - Testing syntax using knife!
 - One more test
 - Another more test
+- Hack tasks
